@@ -1,6 +1,18 @@
 # Intern-Pretest-2026
 typescript project with unit test
 
+## **Prerequisites**
+
+ - [Node.js](https://nodejs.org/) (v16 or higher recommended)
+ - [npm](https://www.npmjs.com/)
+
+## **Installation**
+To install package
+
+```
+npm install
+```
+
 ## **Running Unit Tests**
 
 To execute the unit tests using Jest, run:
